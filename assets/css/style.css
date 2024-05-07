@@ -33,8 +33,6 @@
 
     /*font-family*/
     --ff-work: 'work sans', 'sans-serif';
-
-
 }
 
 .bg-img {
@@ -129,25 +127,21 @@
     transition: all .5s;
 }
 
-/* width */
 ::-webkit-scrollbar {
     width: 7px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
     box-shadow: inset 0 0 5px grey;
     border-radius: 10px;
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
     background: linear-gradient(90deg, #fd9b2b 0%, #f14f09 100%),
         #fff;
     border-radius: 10px;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(90deg, #fd9b2b 0%, #f14f09 100%),
         #fff;
@@ -322,7 +316,6 @@
 .mw-218 {
     max-width: 218px;
     line-height: 150.535%;
-    /* 24.086px */
 }
 
 .card1 svg path {
