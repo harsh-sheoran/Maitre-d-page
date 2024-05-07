@@ -237,13 +237,13 @@
     border-radius: 30.5px;
     background: linear-gradient(97deg, #FD9B2B 13.58%, #F14F09 86.99%);
     transition: all 300ms;
-}
+} 
 
 .btn-submit:hover {
     color: white;
     background: linear-gradient(97deg, #F14F09 13.58%, #FD9B2B 86.99%);
 }
-
+ 
 .btn-submit:active {
     scale: 0.9;
 }
