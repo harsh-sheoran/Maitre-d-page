@@ -505,6 +505,8 @@ textarea {
 }
 
 @media (max-width:768px) {
+
+    
     .fs-61 {
         font-size: var(--fs-48);
     }
