@@ -121,7 +121,6 @@
 }
 
 .bg-navbar {
-    background-color: #fff3ed;
     box-shadow: 5px 6px 12px 0px rgba(0, 0, 0, 0.06);
     transition: all .5s;
 }
@@ -539,15 +538,12 @@ textarea {
         left: -38%;
         bottom: -26%;
     }
-
-    .fs-61 {
-        font-size: var(--fs-40)
-    }
-
-    .fw-800 {
-        font-weight: var(--fw-500);
-    }
-
+:root{
+    --fs-40: 34px;
+    --fs-61: 40px;
+    --fw-800: 500;
+}
+    
     .bg-footer {
         background-color: black;
     }
