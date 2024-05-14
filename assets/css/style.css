@@ -8,7 +8,6 @@
     margin: 0;
 }
 
-/*roots*/
 :root {
     /*font-size*/
 
@@ -35,12 +34,6 @@
     --ff-work: 'work sans', 'sans-serif';
 }
 
-.bg-img {
-    background-image: url(../images/bg-img.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .text-perouta {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
 }
@@ -65,20 +58,8 @@
     font-size: var(--fs-40);
 }
 
-.fw-300 {
-    font-weight: var(--fw-3);
-}
-
 .fs-16 {
     font-size: var(--fs-16);
-}
-
-.fw-400 {
-    font-weight: var(--fw-4);
-}
-
-.fw-600 {
-    font-weight: var(--fw-6);
 }
 
 .fs-88 {
@@ -101,8 +82,20 @@
     font-size: var(--fs-61);
 }
 
+.fw-300 {
+    font-weight: var(--fw-300);
+}
+
+.fw-400 {
+    font-weight: var(--fw-400);
+}
+
 .fw-500 {
     font-weight: var(--fw-500);
+}
+
+.fw-600 {
+    font-weight: var(--fw-600);
 }
 
 .fw-700 {
@@ -111,6 +104,12 @@
 
 .fw-800 {
     font-weight: var(--fw-800);
+}
+
+.bg-img {
+    background-image: url(../images/bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .left-0 {
