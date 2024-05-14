@@ -535,7 +535,10 @@ textarea {
     .card2 {
         padding: 10px;
     }
-
+    .svg-arrow-1 {
+        left: -38%;
+        bottom: -26%;
+    }
 
     .fs-61 {
         font-size: var(--fs-40)
