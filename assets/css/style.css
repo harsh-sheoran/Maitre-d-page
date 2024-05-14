@@ -536,6 +536,10 @@ textarea {
         padding: 10px;
     }
 
+    .d-sm-none{
+        display: none;
+    }
+
     .fs-61 {
         font-size: var(--fs-40)
     }
