@@ -302,7 +302,6 @@
     z-index: -3;
 }
 
-
 .mb-40 {
     margin-bottom: 38px;
 }
@@ -498,9 +497,7 @@ textarea {
     }
 }
 
-@media (max-width:768px) {
-
-    
+@media (max-width:768px) {    
     .fs-61 {
         font-size: var(--fs-48);
     }
@@ -539,6 +536,7 @@ textarea {
         left: -38%;
         bottom: -26%;
     }
+
 :root{
     --fs-40: 34px;
     --fs-61: 40px;
